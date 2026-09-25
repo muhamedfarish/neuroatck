@@ -79,7 +79,7 @@ Designed for authorized penetration testing, security research, CTFs, and securi
 
 🚀 Installation
 
--Download NeuroAtck.zip and uzip it
+-Download NeuroAtck.zip and unzip it
 -Visit chrome and seach chrome://extensions
 -Enable Developer Mode
 -Load unpacked
