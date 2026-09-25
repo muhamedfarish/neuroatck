@@ -80,7 +80,7 @@ Designed for authorized penetration testing, security research, CTFs, and securi
 🚀 Installation
 
 -Download NeuroAtck.zip and uzip it
--Go to chrome://extensions
+-Visit chrome and seach chrome://extensions
 -Enable Developer Mode
 -Load unpacked
 -Add api (NeuroAtck → Settings)
