@@ -2,7 +2,7 @@
 
 > **Map functionality. Trace the attack surface.**
 
-NeuroAtck is an AI-assisted Chrome extension for **web application reconnaissance and security test planning**.
+NeuroAtck is an AI assisted Chrome extension for **web application reconnaissance and security test planning**.
 
 It analyzes the current web page, creates a structured snapshot of the observed application, sends the data to a selected AI provider, and maps the application into:
 
@@ -74,3 +74,16 @@ Designed for authorized penetration testing, security research, CTFs, and securi
                          │ Endpoints            │
                          │ Tests                │
                          └──────────────────────┘
+
+
+
+🚀 Installation
+
+-Download NeuroAtck.zip and uzip it
+-Go to chrome://extensions
+-Enable Developer Mode
+-Load unpacked
+-Add api (NeuroAtck → Settings)
+-Now scan your app 
+
+                         
